@@ -7,6 +7,8 @@ For doing this project I have download the tomato data from google.
    
    Step 3 Splitting of dataset
 I have split the whole dataset into two part training_set and test_set and each have two sub-folder Ripeness tommato and another is Without Ripeness.
+  
+  
   Step 4: Proposed Model
 Here I have used the Convolution Neural Network to develop this given project. CNNs have wide applications in image and video recognition, recommender systems
 and natural language processing. Convolutions are frequently used in image processing, which is also why they were introduced to visual tasks in the field of deep

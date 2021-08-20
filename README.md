@@ -10,6 +10,7 @@ I have split the whole dataset into two part training_set and test_set and each 
   
   
   Step 4: Proposed Model
+  
 Here I have used the Convolution Neural Network to develop this given project. CNNs have wide applications in image and video recognition, recommender systems
 and natural language processing. Convolutions are frequently used in image processing, which is also why they were introduced to visual tasks in the field of deep
 learning. They allow learning local patterns in the data instead of treating the input features in a global manner like dense layers do. Convolutional neural networks
